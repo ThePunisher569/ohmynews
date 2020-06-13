@@ -8,6 +8,11 @@ I wanted to make a news app to read news from top sources based on different cat
 
 ## What I created
 
+Dashboard
 ![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-1.png)
+
+Category news
 ![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-2.png)
+
+In-app Browser
 ![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-3.png)
