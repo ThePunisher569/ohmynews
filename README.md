@@ -8,4 +8,6 @@ I wanted to make a news app to read news from top sources based on different cat
 
 ## What I created
 
-![Finished App]()
+![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-1.png)
+![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-2.png)
+![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-3.png)
