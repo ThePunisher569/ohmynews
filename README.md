@@ -16,7 +16,7 @@ I wanted to make a news app to read news from top sources based on different cat
 ![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-1.jpeg)
 
 ### Category news
-![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-2.png)
+![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-2.jpeg)
 
 ### In-app Browser
-![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-3.png)
+![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-3.jpeg)
