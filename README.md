@@ -13,7 +13,7 @@ I wanted to make a news app to read news from top sources based on different cat
 ## What I created
 
 ### Dashboard
-![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-1.png)
+![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-1.jpeg)
 
 ### Category news
 ![Finished App](https://github.com/aiwithab/ohmynews/blob/master/screenshots/ohmynews-2.png)
